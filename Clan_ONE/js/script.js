@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Rasputin', 'ColdPlay', 'UNDERWORLD', 'MiddleOfTheNight', 'Untitled', 'Barbie', 'ColdBloodedLove', 'LostOnYou', 'EminemStan', 'StereoHearts', 'JustTwoOfUs', 'SkyFullOfStars'];
+const songs = ['Rasputin', 'ColdPlay', 'Invincible', 'MiddleOfTheNight', 'Untitled', 'UNDERWORLD', 'PrayerInC', 'Barbie', 'ColdBloodedLove', 'LostOnYou', 'EminemStan', 'StereoHearts', 'MASHUP', 'JustTwoOfUs', 'SkyFullOfStars', 'AnotherLOVE', 'UsedToKnow', 'Dancin'];
 
 // Keep track of song
 let songIndex = 2;
